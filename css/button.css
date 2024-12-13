@@ -1,0 +1,14 @@
+#quote-section {
+    margin-top: 40px;
+  }
+  
+  .blockquote {
+    font-size: 1.5rem;
+    font-style: italic;
+  }
+  
+  blockquote footer {
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+  
